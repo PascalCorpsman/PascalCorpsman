@@ -12,6 +12,8 @@ I am
 
 If you are new to the field, i highly recommend you to read the [Software Guidelines](https://chriswigit.github.io/dev-guidelines/) written by [Christian Wimmer](https://github.com/ChrisWiGit)
 
+If you came here to find my non programming activities you need to look at my [Corpsman](https://github.com/Corpsman) account.
+
 <!--
 **PascalCorpsman/PascalCorpsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
