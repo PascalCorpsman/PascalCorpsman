@@ -2,7 +2,7 @@
 
 I am 
 - a embedded software architect and Free Pascal enthusiast
-- using [Lazarus](https://www.lazarus-ide.org/) to write my applications
+- using [Lazarus](https://www.lazarus-ide.org/) to write my PC applications
 - a Test Driven Development (TDD) fan and follower of the Clean Code guidelines as much as possible
 - interested in math and simulations the same way as building compilers and interpreters
 - regular speaker at the [Stuttgarter Lazarus treffen](https://lazarusforum.de/viewforum.php?f=66) aprox. every 3 months since 2011, next event 2025.01.18
