@@ -1,4 +1,3 @@
-![My stats](https://github-readme-stats.vercel.app/api?username=PascalCorpsman&show_icons=true)
 
 ### Hi there 👋
 
@@ -16,6 +15,19 @@ I am
 If you are new to the field, i highly recommend you to read the [Software Guidelines](https://chriswigit.github.io/dev-guidelines/) written by [Christian Wimmer](https://github.com/ChrisWiGit)
 
 If you came here to find my non programming activities you need to look at my [Corpsman](https://github.com/Corpsman) account.
+
+<!--
+Quelle: https://github.com/anuraghazra/github-readme-stats
+ -->
+
+Following are some statistics of my account :)
+
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PascalCorpsman" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PascalCorpsman" />
+</a>
 
 <!--
 **PascalCorpsman/PascalCorpsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
