@@ -1,3 +1,5 @@
+![My stats](https://github-readme-stats.vercel.app/api?username=PascalCorpsman&show_icons=true)
+
 ### Hi there 👋
 
 I am 
@@ -10,8 +12,6 @@ I am
 - speaker at the [INTERNATIONAL PASCAL CONGRESS](https://pascalcongress.com/Documentos/Full_Program_IPC2023.pdf) 2023.07.03-07
 - speaker at the Lazarus Konferenz 2016.09.23-25
 
-
-![My stats](https://github-readme-stats.vercel.app/api?username=PascalCorpsman&show_icons=true)
 
 If you are new to the field, i highly recommend you to read the [Software Guidelines](https://chriswigit.github.io/dev-guidelines/) written by [Christian Wimmer](https://github.com/ChrisWiGit)
 
