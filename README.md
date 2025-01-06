@@ -20,13 +20,13 @@ If you came here to find my non programming activities you need to look at my [C
 Quelle: https://github.com/anuraghazra/github-readme-stats
  -->
 
-Following are some statistics of my account :)
+## Github Stats 
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PascalCorpsman&hide=issues" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PascalCorpsman&hide=issues&hide_border=true&theme=github_dark" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PascalCorpsman" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PascalCorpsman&hide_border=true&theme=github_dark" />
 </a>
 
 <!--
