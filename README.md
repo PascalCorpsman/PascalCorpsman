@@ -23,7 +23,7 @@ Quelle: https://github.com/anuraghazra/github-readme-stats
 Following are some statistics of my account :)
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PascalCorpsman" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PascalCorpsman&hide=issues" />
 </a>
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PascalCorpsman" />
