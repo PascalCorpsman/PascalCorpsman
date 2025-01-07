@@ -23,7 +23,7 @@ Quelle: https://github.com/anuraghazra/github-readme-stats
 ## Github Stats 
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PascalCorpsman&hide=issues&hide_border=true&theme=github_dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PascalCorpsman&hide=issues&hide_rank=true&hide_border=true&theme=github_dark" />
 </a>
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PascalCorpsman&hide_border=true&theme=github_dark" />
