@@ -16,6 +16,8 @@ If you are new to the field, i highly recommend you to read the [Software Guidel
 
 If you came here to find my non programming activities you need to look at my [Corpsman](https://github.com/Corpsman) account.
 
+[![Generic badge](https://img.shields.io/badge/SUPPORT_MY_PROJECTS-PayPal.me-27ae60.svg)](https://paypal.me/CorpsmanWing)
+
 <!--
 Quelle: https://github.com/anuraghazra/github-readme-stats
 
