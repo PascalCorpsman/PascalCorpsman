@@ -26,13 +26,22 @@ Quelle: https://github.com/anuraghazra/github-readme-stats
 
 ## Github Stats 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PascalCorpsman&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PascalCorpsman&hide=issues&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PascalCorpsman&theme=github_dark) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PascalCorpsman&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PascalCorpsman&theme=github_dark) 
+
+<!--
 <a href="">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PascalCorpsman&hide=issues&hide_rank=false&hide_border=true&theme=github_dark" />
 </a>
 <a href="">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PascalCorpsman&hide_border=true&theme=github_dark" />
 </a>
-<!--
+
 **PascalCorpsman/PascalCorpsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
