@@ -6,7 +6,7 @@ I am
 - using [Lazarus](https://www.lazarus-ide.org/) to write my PC applications
 - a Test Driven Development (TDD) fan and follower of the Clean Code guidelines as much as possible
 - interested in math and simulations the same way as building compilers and interpreters
-- regular speaker at the [Stuttgarter Lazarus treffen](https://lazarusforum.de/viewforum.php?f=66) aprox. every 3 months since 2011, next event 2026.07.11
+- regular speaker at the [Stuttgarter Lazarus treffen](https://lazarusforum.de/viewforum.php?f=66) aprox. every 3 months since 2011, next event 2026.10.10
 - speaker at the [INTERNATIONAL PASCAL CONGRESS](https://www.pascalcongress.com/Documentos/Program_IPC2026.pdf) 2026.06.21-26
 - speaker at the Lazarus Konferenz 2023.09.22-24
 - speaker at the [INTERNATIONAL PASCAL CONGRESS](https://pascalcongress.com/editions/2023/Documentos/Full_Program_IPC2023.pdf) 2023.07.03-07
